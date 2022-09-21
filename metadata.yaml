@@ -1,0 +1,34 @@
+_repo: A-soldier-s-mother-in-France_68895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dorr, Rheta Childe
+    aliases:
+    - Child, Reta Louise
+    - Childe, Rheta Louise
+    - Dorr, Rheta Louise Childe
+    birthdate: 1866
+    deathdate: 1948
+    gutenberg_agent_id: '4264'
+    url: http://www.gutenberg.org/2009/agents/4264
+    wikipedia: https://en.wikipedia.org/wiki/Rheta_Childe_Dorr
+description: ''
+gutenberg_issued: '2022-09-02'
+identifiers:
+  gutenberg: '68895'
+language: en
+pgterms:marc904: https://archive.org/details/soldiersmotherin00dorr
+pgterms:marc905: 20220717125319dorr
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Fay Dunn, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Bobb-Merrill Company,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A soldier's mother in France
+url: http://www.gutenberg.org/ebooks/68895
